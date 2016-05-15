@@ -1,6 +1,6 @@
 {
   "name": "videojs-title-bar",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "video.js title bar",
   "main": "es5/plugin.js",
   "scripts": {
