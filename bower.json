@@ -1,0 +1,15 @@
+{
+  "name": "videojs-title-bar",
+  "author": "NOC",
+  "license": "MIT",
+  "version": "0.0.0",
+  "main": [
+    "dist/videojs-title-bar.css",
+    "dist/videojs-title-bar.min.js"
+  ],
+  "keywords": [
+    "videojs",
+    "videojs-plugin"
+  ]
+}
+
